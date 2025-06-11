@@ -2,7 +2,6 @@ import turtle
 import keyboard
 #import time
 print('"w" ^ "s" v "a" <- "d" -> "c" makes dot. "o" makes circle. "9" color to red. "^" penup. "v" pendown.')
-#time.sleep(10)
 screen = turtle.Screen()
 screen.setup(1200, 800)
 screen.bgcolor("yellow")
